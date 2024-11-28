@@ -20,4 +20,3 @@ document.querySelector('.weatherResult').innerHTML=`
 
 }
 
-// getdata()
